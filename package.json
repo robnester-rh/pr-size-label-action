@@ -11,8 +11,8 @@
   "author": "Conforma",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^2.0.0",
-    "@actions/github": "^6.0.0"
+    "@actions/core": "^3.0.0",
+    "@actions/github": "^9.0.0"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.38.0",
